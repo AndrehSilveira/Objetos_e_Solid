@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/bin/Debug/net8.0/04estatico
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/bin/Debug/net8.0/04estatico.deps.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/bin/Debug/net8.0/04estatico.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/bin/Debug/net8.0/04estatico.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/bin/Debug/net8.0/04estatico.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/refint/04estatico.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/04estatico.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/04estatico/obj/Debug/net8.0/ref/04estatico.dll

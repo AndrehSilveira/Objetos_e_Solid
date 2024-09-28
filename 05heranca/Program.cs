@@ -1,0 +1,1 @@
+﻿Colaborador c = new("André", 34, "Programador", 3750.00);

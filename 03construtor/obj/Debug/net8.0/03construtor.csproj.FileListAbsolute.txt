@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/bin/Debug/net8.0/03construtor
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/bin/Debug/net8.0/03construtor.deps.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/bin/Debug/net8.0/03construtor.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/bin/Debug/net8.0/03construtor.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/bin/Debug/net8.0/03construtor.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/refint/03construtor.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/03construtor.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/03construtor/obj/Debug/net8.0/ref/03construtor.dll

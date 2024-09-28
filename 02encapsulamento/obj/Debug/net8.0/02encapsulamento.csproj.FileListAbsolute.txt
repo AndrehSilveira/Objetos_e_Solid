@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/bin/Debug/net8.0/02encapsulamento
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/bin/Debug/net8.0/02encapsulamento.deps.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/bin/Debug/net8.0/02encapsulamento.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/bin/Debug/net8.0/02encapsulamento.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/bin/Debug/net8.0/02encapsulamento.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/refint/02encapsulamento.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/02encapsulamento.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/02encapsulamento/obj/Debug/net8.0/ref/02encapsulamento.dll

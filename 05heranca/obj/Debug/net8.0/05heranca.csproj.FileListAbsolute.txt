@@ -1,0 +1,14 @@
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.AssemblyInfoInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.AssemblyInfo.cs
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/bin/Debug/net8.0/05heranca
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/bin/Debug/net8.0/05heranca.deps.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/bin/Debug/net8.0/05heranca.runtimeconfig.json
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/bin/Debug/net8.0/05heranca.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/bin/Debug/net8.0/05heranca.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/refint/05heranca.dll
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.pdb
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/05heranca.genruntimeconfig.cache
+/Users/user/Documents/Desenvolvimento/Csharp/Objetos_e_Solid/05heranca/obj/Debug/net8.0/ref/05heranca.dll
